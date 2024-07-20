@@ -289,7 +289,7 @@ repeat
  end
  
  local library = {
-    Title = 'debugged.<font color="rgb(255, 5, 9)">lol</font>',
+    Title = 'hunted.<font color="rgb(255, 5, 9)">lol</font>',
     keybind = Enum.KeyCode.RightBracket,
     Watermark = createWatermark(),
        Colors = {
